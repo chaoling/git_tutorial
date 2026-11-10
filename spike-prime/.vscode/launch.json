@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Pybricks: send current file to hub",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pybricksdev",
+      "args": ["run", "ble", "${file}"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "noDebug": true
+    }
+  ]
+}

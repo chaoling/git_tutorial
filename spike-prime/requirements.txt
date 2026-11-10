@@ -1,0 +1,3 @@
+# Laptop tools. Robot programs run on the hub's Pybricks firmware.
+pybricks==4.1.1
+pybricksdev==2.3.2
